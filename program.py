@@ -162,7 +162,8 @@ n_layer
 
 
 # one extra FC Layer
-# addFC(4096)
+addFlat()
+addFC(4096)
 
 # Output Layer
 model.add(Dense(num_classes))
