@@ -15,4 +15,6 @@ To automate this process using DevOps refer to the article given below:
 https://www.linkedin.com/pulse/mlops-project-sarthak-sharma
 
 Do update the code of mail.py; and update senders and reciever's EmailID
-*** Remember to add a Gmail app password to the sender's ID for Login ***
+*****************************************************************
+Remember to add a Gmail app password to the sender's ID for Login 
+*****************************************************************
