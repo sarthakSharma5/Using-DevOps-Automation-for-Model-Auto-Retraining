@@ -1,11 +1,14 @@
 # mlopstask3
 
-This repository contains 
+Contents of this repository:
+
 A) 3 codes:
  1. accuracy.txt: the main code to train a CNN model using Fashion MNIST dataset
  2. layer.py: code used when the model needs to be tweaked
  3. mail.py: executed when the Dev has to be notified about the best model created
+
 B) Dataset: Fashion MNIST from Kaggle
+ 
 C) 2 text files:
  1. accuracy.txt: to store the accuracy everytime when the model is completely trained
  2. control.txt: used during model-tweaking
