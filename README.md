@@ -7,7 +7,7 @@ A) 3 codes:
  2. layer.py: code used when the model needs to be tweaked
  3. mail.py: executed when the Dev has to be notified about the best model created
 
-B) Dataset: Fashion MNIST from Kaggle
+B) Dataset: Fashion MNIST from Kaggle; link: https://www.kaggle.com/zalando-research/fashionmnist
  
 C) 2 text files:
  1. accuracy.txt: to store the accuracy everytime when the model is completely trained
